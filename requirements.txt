@@ -1,0 +1,9 @@
+python-multipart
+bitsandbytes
+langchain
+ctransformers
+sentence-transformers
+pypdf
+chromadb
+fastapi
+uvicorn
